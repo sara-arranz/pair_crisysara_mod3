@@ -3,3 +3,5 @@
 ## MARTES. numpy
 
 ## MIÉRCOLES. pandas
+
+## JUEVES. EDA
